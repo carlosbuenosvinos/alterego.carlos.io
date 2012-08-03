@@ -2,30 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82db0439-946e-4637-a318-ae1918fe250a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/screenshots/badges.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/screenshots/challenge.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/screenshots/congratulations.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/screenshots/done.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/screenshots/help.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/screenshots/start.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/screenshots/twitter.png" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/screenshots/1_home.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/screenshots/4_reto.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/screenshots/5_revision.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/screenshots/6_resultados.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/screenshots/7_ayuda.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/screenshots/screen_1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/screenshots/screen_2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/screenshots/screen_3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/screenshots/screen_4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/screenshots/screen_5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/screenshots/screen_6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/screenshots/screen_7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/screenshots/screen_8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/screenshots/screen_9.jpg" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/screenshots/2_agitar.png" afterPath="$PROJECT_DIR$/images/screenshots/shake.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/screenshots/3_agitado.png" afterPath="$PROJECT_DIR$/images/screenshots/shaken.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="alterego.carlos.io.iws" />
@@ -51,7 +28,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="144" column="59" selection-start="5626" selection-end="5626" vertical-scroll-proportion="2.0952382">
+            <state line="238" column="102" selection-start="9433" selection-end="9433" vertical-scroll-proportion="0.67346936">
               <folding />
             </state>
           </provider>
@@ -314,9 +291,14 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/images/screenshots/shake.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="144" column="59" selection-start="5626" selection-end="5626" vertical-scroll-proportion="2.0952382">
+        <state line="238" column="102" selection-start="9433" selection-end="9433" vertical-scroll-proportion="0.67346936">
           <folding />
         </state>
       </provider>
