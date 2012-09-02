@@ -1,7 +1,7 @@
 <?php
 
 	// Replace this with your own email address
-	$to="alterego@quepimquepam.com";
+	$to = "alterego@carlos.io";
 
 	// Extract form contents
 	$name = $_POST['name'];
